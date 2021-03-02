@@ -75,7 +75,7 @@ Write a JavaScript/TypeScript function that will return `true` if the parenthesi
 Go nuts! Show us some code that you're particularly proud of. It could be an algorithm, an `npm` or NuGet library, some really wicked HTML/CSS, or even a whole application! Feel free to link to your public GitHub (or equivalent) repository if necessary.
 
 ### Submit
-Please upload your work to a GitHub repository, and send us an email with a link to your GitHub repository. Send the email to the following addresses:
+Please upload your work to your own GitHub repository, and send us an email with a link to your GitHub repository. Send the email to the following addresses:
 
 * jdentler@gsfsgroup.com
 * shorton@gsfsgroup.com
@@ -89,5 +89,3 @@ If you choose to keep your repository private, please grant access to the follow
 * jasondentler
 * rickj33
 * wshorton
-
-
